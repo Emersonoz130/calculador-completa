@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\Calculadora-Mejorada\bin\Debug\Calculadora-Mejorada.exe.config
+C:\Users\Estudiante\source\repos\Calculadora-Mejorada\bin\Debug\Calculadora-Mejorada.exe
+C:\Users\Estudiante\source\repos\Calculadora-Mejorada\bin\Debug\Calculadora-Mejorada.pdb
+C:\Users\Estudiante\source\repos\Calculadora-Mejorada\obj\Debug\Calculadora-Mejorada.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\Calculadora-Mejorada\obj\Debug\Calculadora_Mejorada.Form1.resources
+C:\Users\Estudiante\source\repos\Calculadora-Mejorada\obj\Debug\Calculadora_Mejorada.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\Calculadora-Mejorada\obj\Debug\Calculadora-Mejorada.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\Calculadora-Mejorada\obj\Debug\Calculadora-Mejorada.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Calculadora-Mejorada\obj\Debug\Calculadora-Mejorada.exe
+C:\Users\Estudiante\source\repos\Calculadora-Mejorada\obj\Debug\Calculadora-Mejorada.pdb
